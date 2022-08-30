@@ -1,0 +1,17 @@
+{
+  "name": "generate-github-skills-readme-from-lab-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "jest": "^27.2.5",
+    "yaml": "^2.1.1"
+  }
+
+}
